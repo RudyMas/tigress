@@ -1,2 +1,2 @@
 # tigress
-Tigress: A PHP MVC Framework
+Tigress: Unleash the Power of PHP (MVC Framework)
