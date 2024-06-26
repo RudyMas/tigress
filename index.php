@@ -6,15 +6,13 @@
  * @author      Rudy Mas <rudy.mas@rudymas.be>
  * @copyright   2024, rudymas.be. (https://rudymas.be/)
  * @license     https://opensource.org/licenses/GPL-3.0 GNU General Public License, version 3 (GPL-3.0)
- * @version     1.0.0
+ * @version     8.3
  */
 
-//use Tigress\Core;
-//
-//session_start();
-//require_once('vendor/autoload.php');
-//
-//const TIGRESS_VERSION = '1.0.0';
-//$Core = new Core();
+use Tigress\Core;
 
-echo("Tigress (PHP version 8.3)");
+session_start();
+require_once('vendor/autoload.php');
+
+const TIGRESS_VERSION = '8.3';
+$Core = new Core();
