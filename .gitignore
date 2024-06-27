@@ -3,12 +3,6 @@
 # Ignore the config.json file
 config/config.json
 
-# Ignore the vendor folder
-/vendor/
-
-# Ignore the node_modules folder
-node_modules/
-
 # Don't upload the lock files
 package-lock.json
 composer.lock
@@ -108,6 +102,9 @@ fabric.properties
 ### Composer ###
 composer.phar
 /vendor/
+
+### NPM / NodeJS ###
+node_modules/
 
 ### System Files ###
 .DS_Store
