@@ -1,7 +1,8 @@
 ### Files to ignore in the project ###
 
-# Ignore the config.json file
+# Ignore the config.json files
 config/config.json
+system/config.json
 
 # Don't upload the lock files
 package-lock.json
