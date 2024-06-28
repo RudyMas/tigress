@@ -5,7 +5,7 @@
 
 # Ignore the config.json files
 config/config.json
-config/router.json
+config/routes.json
 system/config.json
 
 # Don't upload the lock files
