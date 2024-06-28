@@ -1,7 +1,11 @@
 ### Files to ignore in the project ###
 
+## Remark the files that you want to upload to the repository
+## Remember to make your Github repository private because these files can contain sensitive information
+
 # Ignore the config.json files
 config/config.json
+config/router.json
 system/config.json
 
 # Don't upload the lock files
