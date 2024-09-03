@@ -8,6 +8,7 @@
  * @license     https://opensource.org/licenses/GPL-3.0 GNU General Public License, version 3 (GPL-3.0)
  * @version     1.0.0
  */
+declare(strict_types=1);
 
 use Tigress\Core;
 
