@@ -14,5 +14,5 @@ use Tigress\Core;
 session_start();
 require_once('vendor/autoload.php');
 
-const TIGRESS_VERSION = '1.0.0';
+const TIGRESS_VERSION = '1.1.0';
 $Core = new Core();
