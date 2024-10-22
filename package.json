@@ -1,12 +1,12 @@
 {
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
     "@ttskch/select2-bootstrap4-theme": "^1.5.2",
     "bootstrap": "^5.3.3",
-    "fontawesome-free-v6": "^1.0.1",
     "jquery": "^3.7.1",
     "select2": "^4.0.13",
     "tinymce": "^7.4.1",
-    "tinymce-i18n": "^24.10.7",
+    "tinymce-i18n": "^24.10.21",
     "use-bootstrap-select": "^2.2.0"
   }
 }
