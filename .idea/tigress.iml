@@ -54,6 +54,18 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/tigress/security" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/twig/intl-extra" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/paragonie/constant_time_encoding" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phpseclib/phpseclib" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/shuchkin/simplexlsxgen" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/staabm/side-effects-detector" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/tigress/data-converter" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/tigress/data-files" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/tigress/database" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/tigress/encryption" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/tigress/file-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/tigress/model" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/tigress/repository" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
