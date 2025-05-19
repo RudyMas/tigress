@@ -6,7 +6,7 @@
  * @author      Rudy Mas <rudy.mas@rudymas.be>
  * @copyright   2024-2025, rudymas.be. (https://rudymas.be/)
  * @license     https://opensource.org/licenses/GPL-3.0 GNU General Public License, version 3 (GPL-3.0)
- * @version     2025.02.20.0
+ * @version     2025.05.19.0
  */
 
 use Tigress\Core;
@@ -14,5 +14,5 @@ use Tigress\Core;
 session_start();
 require_once('vendor/autoload.php');
 
-const TIGRESS_VERSION = '2025.02.20';
+const TIGRESS_VERSION = '2025.05.19';
 $Core = new Core();
