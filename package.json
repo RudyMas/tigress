@@ -9,6 +9,8 @@
     "datatables.net-fixedheader": "^4.0.1",
     "datatables.net-fixedheader-bs5": "^4.0.2",
     "datatables.net-plugins": "^2.3.0",
+    "datatables.net-searchpanes": "^2.3.3",
+    "datatables.net-searchpanes-bs5": "^2.3.3",
     "jquery": "^3.7.1",
     "moment": "^2.30.1",
     "select2": "^4.0.13",
