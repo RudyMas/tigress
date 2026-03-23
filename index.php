@@ -6,7 +6,7 @@
  * @author      Rudy Mas <rudy.mas@rudymas.be>
  * @copyright   2024-2026, rudymas.be. (https://rudymas.be/)
  * @license     https://opensource.org/licenses/GPL-3.0 GNU General Public License, version 3 (GPL-3.0)
- * @version     2026.03.02.0
+ * @version     2026.03.02.1
  */
 
 use Tigress\Core;

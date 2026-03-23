@@ -17,11 +17,11 @@
       "name": "Rudy Mas",
       "email": "rudy.mas@rudymas.be",
       "homepage": "https://rudymas.be",
-      "role": "Developer"
+      "role": "Project Manager, Lead Developer"
     }
   ],
   "support": {
-    "email": "support@rudymas.be",
+    "email": "tigress@rudymas.be",
     "source": "https://github.com/RudyMas/tigress"
   },
   "minimum-stability": "stable",
@@ -39,8 +39,12 @@
       "Model\\": "src/models",
       "Repository\\": "src/repositories",
       "Service\\": "src/services",
-      "Helper\\": "src/helpers",
-      "Test\\": "tests"
+      "Helper\\": "src/helpers"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Test\\": "tests/"
     }
   },
   "scripts": {
