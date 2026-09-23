@@ -27,6 +27,9 @@
   "minimum-stability": "stable",
   "require": {
     "php": ">=8.5",
+    "ext-pdo": "*",
+    "ext-exif": "*",
+    "ext-curl": "*",
     "tigress/core": "^2026"
   },
   "require-dev": {
